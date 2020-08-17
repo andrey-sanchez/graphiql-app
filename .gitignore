@@ -37,3 +37,5 @@ release
 dist
 
 .envrc
+
+package-lock.json
